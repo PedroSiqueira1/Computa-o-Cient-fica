@@ -3,7 +3,7 @@ Este é um repositório para armazenar os Notebooks da matéria de Computação 
 
 # Sobre
 
-Esta matéria se propõe a reunir tópicos importantes da Matemática, como Cálculo e Álgebra Linear, e visualizar os problemas dessas áreas por uma ótica da Computação.
+Esta matéria se propõe a reunir tópicos importantes da Matemática, como Cálculo e Álgebra Linear, e visualizar os problemas dessas áreas por uma lente da Computação.
 
 # Ementa
 
