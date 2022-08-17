@@ -1,5 +1,5 @@
 # Computação Cientfíca
-Este é um repositório para armazenar os Notebooks da matéria de Computação Científica I.
+Este é um repositório para armazenar os Notebooks da matéria de Computação Científica I, lecionada pelo professor Bernardo Freitas.
 
 # Sobre
 
